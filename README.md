@@ -1,4 +1,4 @@
-# [Call-To-Action](https://imatechnophile.github.io/Call-To-Action/) ```Click here to see this webpage```
+# Call-To-Action [Click here to see the sample in action](https://imatechnophile.github.io/js-call-to-action/)
   ## Simple Website Landing page animation:
   
  *Use my blog [Simple Home Page](https://medium.com/@cjsaravana95/simple-home-page-94863404d013) to get more knowledge about this repo* 
